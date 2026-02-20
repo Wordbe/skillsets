@@ -6,6 +6,7 @@ Claude Code에서 사용하는 스킬 모음.
 
 | 스킬 | 설명 |
 |------|------|
+| [vibe-slides](.claude/skills/vibe-slides/) | Zero-dependency HTML 프레젠테이션 생성 (신규/PPT 변환) |
 | [youtube-shorts](.claude/skills/youtube-shorts/) | Remotion + Playwright 기반 YouTube Shorts 영상 자동 생성 |
 
 ## 사용법
