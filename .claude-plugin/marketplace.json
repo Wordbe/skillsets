@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skillsets",
+  "version": "1.0.0",
+  "description": "Creative content generation and security review skills for Claude Code",
+  "owner": {
+    "name": "ree"
+  },
+  "plugins": [
+    {
+      "name": "vibe-slides",
+      "description": "Zero-dependency, animation-rich HTML presentation generator. Create from scratch, convert PPT, or improve existing slides with distinctive design.",
+      "version": "1.0.0",
+      "source": "./plugins/vibe-slides",
+      "category": "creative"
+    },
+    {
+      "name": "youtube-shorts",
+      "description": "Remotion + Playwright based YouTube Shorts video generator. Automated pipeline: website screenshot capture, React component creation, royalty-free BGM, MP4 rendering.",
+      "version": "1.0.0",
+      "source": "./plugins/youtube-shorts",
+      "category": "creative"
+    },
+    {
+      "name": "security-review",
+      "description": "Post-development security review. OWASP Top 10 vulnerability scanning with structured PASS/WARN/FAIL reporting.",
+      "version": "1.0.0",
+      "source": "./plugins/security-review",
+      "category": "security"
+    }
+  ]
+}

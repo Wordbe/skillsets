@@ -1,0 +1,5 @@
+{
+  "name": "security-review",
+  "version": "1.0.0",
+  "description": "Post-development security review skill. Scans for OWASP Top 10 vulnerabilities, credential exposure, injection attacks, and common security anti-patterns."
+}

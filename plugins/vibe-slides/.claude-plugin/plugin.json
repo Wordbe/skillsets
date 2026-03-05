@@ -1,0 +1,5 @@
+{
+  "name": "vibe-slides",
+  "version": "1.0.0",
+  "description": "Zero-dependency, animation-rich HTML presentation generator. Create from scratch, convert PPT, or improve existing slides with distinctive design."
+}

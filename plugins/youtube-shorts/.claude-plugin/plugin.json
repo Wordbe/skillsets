@@ -1,0 +1,5 @@
+{
+  "name": "youtube-shorts",
+  "version": "1.0.0",
+  "description": "Remotion + Playwright based YouTube Shorts video generator. Automated pipeline from website screenshots to final MP4."
+}
